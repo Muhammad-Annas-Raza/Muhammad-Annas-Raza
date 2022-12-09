@@ -1,6 +1,5 @@
 ...............
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://github.com/Muhammad-Annas-Raza/Muhammad-Annas-Raza)
-...............
 <h1 align="center">Hi 👋, I'm Muhammad Annas Raza</h1>
 <h3 align="center">Motivated, passionate and organized Software Developer in C# technologies/.Net & .Net Core framework.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
