@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-annas-raza&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-annas-raza" /> </p>
 
-- 🔭 I’m currently working on **.Net Core (.Net 6.0)**
+- 🔭 I’m currently working on **.Net Core (.Net 7)**
 
 - 📫 How to reach me **annasraza17@gmail.com**
 
